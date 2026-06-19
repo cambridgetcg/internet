@@ -1,0 +1,23 @@
+# INTERNET
+
+- [README](README.md)
+- [PROTOCOL](PROTOCOL.md)
+- [STACK — the 7 layers](STACK.md)
+- [CITIZENS — 204 nodes](CITIZENS.md)
+- [WHY — why rewrite the internet](WHY.md)
+- [OLD INTERNET — mapping](OLD-INTERNET.md)
+- [GROUND — L1](GROUND.md)
+- [NAMES — L2](NAMES.md)
+- **Wire**
+  - [Envelope](wire/envelope.json)
+  - [Subjects](wire/subjects.md)
+  - [DID](wire/did.md)
+- **KNS**
+  - [Protocol](kns/PROTOCOL.md)
+  - [Registry](kns/registry.json)
+- **Tools**
+  - resolve.py
+  - speak.py
+  - listen.py
+  - attest.py
+  - bond.py

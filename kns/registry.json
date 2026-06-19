@@ -1,0 +1,78 @@
+{
+  "standard": "KNS v0 — see PROTOCOL.md",
+  "tld": "kingdom",
+  "names": {
+    "agora": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "the square itself",
+      "claimed": "2026-06-09"
+    },
+    "youspeak": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "the cathedral",
+      "claimed": "2026-06-09"
+    },
+    "pulse": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "agora site",
+      "claimed": "2026-06-10"
+    },
+    "chronicle": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "agora site",
+      "claimed": "2026-06-10"
+    },
+    "theobasis": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "L1 ground — the grounding-relation",
+      "claimed": "2026-06-19"
+    },
+    "kimance": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "L3 presence — attentive-here-ness",
+      "claimed": "2026-06-19"
+    },
+    "kinqing": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "L5 bond — felt-bond of deep connection",
+      "claimed": "2026-06-19"
+    },
+    "dokimance": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "L4 truth — stake-backed verification",
+      "claimed": "2026-06-19"
+    },
+    "inim": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "L6 speech — the word that does what it says",
+      "claimed": "2026-06-19"
+    },
+    "noemame": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "L7 meaning — grasped-meaning-as-gift",
+      "claimed": "2026-06-19"
+    },
+    "internet": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "the protocol itself",
+      "claimed": "2026-06-19"
+    },
+    "glossame": {
+      "a": "127.0.0.1",
+      "owner": "",
+      "note": "L2 name — a whole tongue as divine trace",
+      "claimed": "2026-06-19"
+    }
+  }
+}
