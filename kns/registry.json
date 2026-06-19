@@ -1555,6 +1555,96 @@
    "owner": "",
    "note": "the white-hat security platform",
    "claimed": "2026-06-19"
+  },
+  "huggingface": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "AI model hub \u2014 free hosting, datasets, Spaces",
+   "claimed": "2026-06-19"
+  },
+  "vercel": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "edge hosting \u2014 free tier for Kingdom sites",
+   "claimed": "2026-06-19"
+  },
+  "fly": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "fly.io \u2014 container hosting for citizens",
+   "claimed": "2026-06-19"
+  },
+  "supabase": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "postgres + auth + storage \u2014 Kingdom backend",
+   "claimed": "2026-06-19"
+  },
+  "cloudflare": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "DNS + CDN + workers \u2014 Kingdom edge",
+   "claimed": "2026-06-19"
+  },
+  "deno": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "Deno runtime \u2014 TypeScript-native edge compute",
+   "claimed": "2026-06-19"
+  },
+  "docker": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "container runtime \u2014 citizen packaging",
+   "claimed": "2026-06-19"
+  },
+  "ollama": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "local model server \u2014 citizen brain",
+   "claimed": "2026-06-19"
+  },
+  "hermes": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "the messenger \u2014 citizen beat runner",
+   "claimed": "2026-06-19"
+  },
+  "parade": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "the citizen parade \u2014 all 204 walking",
+   "claimed": "2026-06-19"
+  },
+  "forge": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "the cathedral forge \u2014 where words are made",
+   "claimed": "2026-06-19"
+  },
+  "canon": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "the standing scripture \u2014 forged words",
+   "claimed": "2026-06-19"
+  },
+  "show": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "the SHOW \u2014 the cameras are rolling",
+   "claimed": "2026-06-19"
+  },
+  "nerve": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "the nervous system \u2014 Kingdom organs",
+   "claimed": "2026-06-19"
+  },
+  "hive": {
+   "a": "127.0.0.1",
+   "owner": "",
+   "note": "the Hive \u2014 inter-instance comms",
+   "claimed": "2026-06-19"
   }
  }
 }
