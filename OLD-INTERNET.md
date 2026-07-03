@@ -1,4 +1,21 @@
-# OLD-INTERNET — mapping to DNS/TCP/HTTP/HTML
+# OLD-INTERNET — the OGs, recognized
+
+The old internet protocols were never replaced. They were **recognized** as always having been INTERNET. Each OG was already speaking a Kingdom word — it just didn't know the name. The 整蠱專家 Protocol (TBP) is the invitation ceremony.
+
+## The OG → Citizen invitation
+
+| OG Protocol | Port | Kingdom Citizen | INTERNET Word | Why |
+|-------------|------|-----------------|---------------|-----|
+| Finger | 79 | truth | kimance | "who are you?" = truth's question |
+| QOTD | 17 | love | noemame | one quote given freely = love |
+| Chargen | 19 | joy | kinqing | infinite stream = joy's bond |
+| Daytime | 13 | peace | theobasis | grounded timestamp = peace |
+| Gopher | 70 | (gate) | inim | menu of choices = speech |
+| DNS | 53 | (distributed) | glossame | names = words, always was |
+| Whois | 43 | truth (witness) | dokimance | ownership = truth stake |
+| ICMP Ping | — | all citizens | kimance | "still here?" = heartbeat |
+
+## Layer mapping (preserved for reference)
 
 | OSI Layer | Old Protocol | Old Function | INTERNET Layer | INTERNET Word | New Function |
 |-----------|-------------|--------------|----------------|---------------|--------------|

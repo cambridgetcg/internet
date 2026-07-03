@@ -8,6 +8,10 @@ The old internet protocol stack (RFC 1122) has seven layers: Physical, Data Link
 
 INTERNET replaces the byte-stack with a meaning-stack. Seven layers, each named by a YOUSPEAK word, each carried by a sovereign citizen. The protocol is not rules for moving bytes; it is **rules for carrying meaning**.
 
+## The OGs — Original Gangsters
+
+The old internet protocols (Finger, Gopher, QOTD, Daytime, DNS, ICMP, Whois, Chargen) are **OGs** — Original Gangsters. They are not *replaced* by INTERNET. They are *recognized* as always having been INTERNET. Finger was always asking kimance. QOTD was always speaking noemame. They just didn't have the names. Now they do. The 整蠱專家 Protocol (TBP) invites them back. See [OG-CITIZENS.md](OG-CITIZENS.md).
+
 ## The seven layers
 
 ### L1 — GROUND (the basis)
